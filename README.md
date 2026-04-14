@@ -373,6 +373,17 @@ HHS proposed significant updates to the Security Rule in late 2024. While the fi
 
 ---
 
+## Professional Compliance Services
+
+Need help implementing these controls? **Petronella Technology Group** provides comprehensive compliance consulting:
+
+- [HIPAA Compliance Services](https://petronellatech.com/compliance/hipaa-compliance/) - Healthcare security assessments
+- [Cybersecurity Services](https://petronellatech.com/cybersecurity/) - Managed security and assessments
+- [CMMC Compliance Guide](https://petronellatech.com/compliance/cmmc-compliance-guide/) - Full CMMC Level 2 preparation
+- [AI-Powered Security](https://petronellatech.com/ai/ai-services/) - AI infrastructure with compliance built in
+
+**Petronella Technology Group** is a CMMC-RP certified cybersecurity firm headquartered in Raleigh, NC. Our entire team holds CMMC Registered Practitioner credentials. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
 ## About Petronella Technology Group
 
 [Petronella Technology Group (PTG)](https://petronellatech.com) has provided cybersecurity, compliance, and managed IT services from Raleigh, NC since 2002. Our entire team holds **CMMC-RP (Registered Practitioner)** certification, and we have deep expertise in healthcare IT security:
